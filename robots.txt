@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://janwimittal4-eng.github.io/emperorsvigortonic/sitemap.xml
+Sitemap: https://neowake-chroma-watch.vercel.app/sitemap.xml
